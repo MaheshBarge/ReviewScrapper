@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'reviewsp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3361EDD96DB043409B432F2B05D224C8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AC07238C971747B49596873184815772 }}
